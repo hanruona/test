@@ -6,6 +6,7 @@ import Index from './login';
       <div className="App">
         <Index/>
         123123123
+        45678
       </div>
     )
   }
