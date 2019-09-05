@@ -5,6 +5,7 @@ import Index from './login';
     return (
       <div className="App">
         <Index/>
+        45678
       </div>
     )
   }
